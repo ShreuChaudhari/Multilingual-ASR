@@ -4,7 +4,7 @@ openai-whisper
 torch
 googletrans==4.0.0-rc1
 gtts
-pydub
+pydub==0.24.1
 indic-transliteration
 
 
