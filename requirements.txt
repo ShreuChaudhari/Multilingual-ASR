@@ -1,0 +1,12 @@
+ffmpeg
+streamlit
+openai-whisper
+torch
+googletrans==4.0.0-rc1
+gtts
+pydub
+indic-transliteration
+
+
+
+git+https://github.com/openai/whisper.git
